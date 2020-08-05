@@ -87,4 +87,4 @@
 
 ## Introduction to Hibernate
 
-![SQL new users](https://www.dropbox.com/s/pyllrq9885rk6a8/sql-new-users.png)
+![SQL new users](https://www.dropbox.com/s/pyllrq9885rk6a8/sql-new-users.png?dl=0)
