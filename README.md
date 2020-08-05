@@ -17,7 +17,7 @@
 * Spring MVC Form Validation - Applying Built-In Validation Rules
 * Spring MVC Form Validation - Validating Number Ranges and Regular Expressions
 * Spring MVC Form Validation - Creating Custom Validation Rules
-* [Introduction to Hibernate](Introduction-to-Hibernate)
+* [Introduction to Hibernate](#Introduction-to-Hibernate)
 * Setting Up Hibernate Development Environment
 * Hibernate Configuration with Annotations
 * Hibernate CRUD Features Create, Read, Update and Delete
