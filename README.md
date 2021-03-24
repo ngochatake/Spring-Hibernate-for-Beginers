@@ -85,7 +85,7 @@
 * Appendix
 * Bonus Spring Boot Deployments on Tomcat
 * “How-to” Guides
-  * Multiple DataSource (H2 & Oracle)
+  * Multiple DataSource (H2 & MySql/Oracle)
 
 ## Introduction to Hibernate
 
